@@ -15,14 +15,12 @@ using TestRESTService.Infrastrucutre;
 
 namespace TestRESTService.Controllers
 {
-    [Route("Client")]
     public class ClientController : ControllerBase
     {
         private ILogger<ClientController> _logger;
         private IPlugin _plugin;
         private readonly IMapper _mapper;
-        private static object s_locker = new object();
-
+        private readonly object _locker = new object();
         public ClientController(ILogger<ClientController> logger, IMapper mapper)
         {
             _logger = logger;
@@ -30,19 +28,16 @@ namespace TestRESTService.Controllers
         }
 
         [HttpPost]
-        [Route("AddAge")]
         public IActionResult AddAge([FromBody] AddAgeModel model)
         {
             _plugin = PluginContext.ActivatePlagin(model.PluginName);
-            var client = _plugin.GetClient(model.Id);
+            var clientDTO = _mapper.Map<ClientDTO>(_plugin.GetClient(model.Id));
 
-            lock (s_locker)
-            {
-                client.Age++;
-            }
+            if (clientDTO == null)
+                return NotFound("Client doen't exist");
 
-            _plugin.UpdateClient(client);
-            ClientDTO clientDTO = _mapper.Map<ClientDTO>(client);
+            clientDTO.Age++;
+            _plugin.UpdateClient(_mapper.Map<Client>(clientDTO));
 
             return Ok(clientDTO);
         }

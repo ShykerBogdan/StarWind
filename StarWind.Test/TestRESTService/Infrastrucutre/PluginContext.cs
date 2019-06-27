@@ -45,9 +45,8 @@ namespace TestRESTService.Infrastrucutre
         {
             var assemblies = new List<Assembly>();
             string path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-            Assembly currentAssembly = Assembly.GetExecutingAssembly();
 
-            foreach (string dll in Directory.GetFiles(path, "*.dll"))
+            foreach (string dll in Directory.GetFiles(path, "Plugins\\*.dll"))
                 assemblies.Add(Assembly.LoadFile(dll));
 
             return assemblies;

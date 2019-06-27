@@ -28,11 +28,11 @@ namespace TestRESTService.Infrastrucutre
             }
             catch (Exception ex)
             {                
-                await HandleExceptionAsync(httpContext, ex);
+                 HandleException(httpContext, ex);
             }
         }
 
-        private async Task HandleExceptionAsync(HttpContext context, Exception exception)
+        private void HandleException(HttpContext context, Exception exception)
         {
             var requestLog = $"REQUEST HttpMethod: {context.Request.Method} \n" +
                            $"Path: {context.Request.Path} \n" +
