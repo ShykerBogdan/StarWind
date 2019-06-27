@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\StarWind-Test\\StarWind.Test\\DDOS\\DDOS.csproj": {}
+  },
+  "projects": {
+    "D:\\StarWind-Test\\StarWind.Test\\DDOS\\DDOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\StarWind-Test\\StarWind.Test\\DDOS\\DDOS.csproj",
+        "projectName": "DDOS",
+        "projectPath": "D:\\StarWind-Test\\StarWind.Test\\DDOS\\DDOS.csproj",
+        "packagesPath": "C:\\Users\\bogdan.shyker\\.nuget\\packages\\",
+        "outputPath": "D:\\StarWind-Test\\StarWind.Test\\DDOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogdan.shyker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

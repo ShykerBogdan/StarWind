@@ -1,0 +1,17 @@
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\bin\Debug\netcoreapp2.2\TestRESTService.deps.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\bin\Debug\netcoreapp2.2\TestRESTService.runtimeconfig.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\bin\Debug\netcoreapp2.2\TestRESTService.runtimeconfig.dev.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\bin\Debug\netcoreapp2.2\TestRESTService.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\bin\Debug\netcoreapp2.2\TestRESTService.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\bin\Debug\netcoreapp2.2\TestCommon.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\bin\Debug\netcoreapp2.2\TestCommon.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.csprojAssemblyReference.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.csproj.CoreCompileInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.RazorAssemblyInfo.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.RazorAssemblyInfo.cs
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.AssemblyInfoInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.AssemblyInfo.cs
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.RazorTargetAssemblyInfo.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.csproj.CopyComplete
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestRESTService\obj\Debug\netcoreapp2.2\TestRESTService.pdb

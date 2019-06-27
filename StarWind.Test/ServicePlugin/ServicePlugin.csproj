@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestCommon\TestCommon.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="if $(ConfigurationName) == Debug (&#xD;&#xA;     xcopy &quot;$(ProjectDir)$(OutDir)*&quot; &quot;..\TestRESTService\bin\Debug\netcoreapp2.1\&quot; /Y /D /E&#xD;&#xA;)" />
+  </Target>
+
+</Project>

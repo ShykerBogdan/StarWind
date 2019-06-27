@@ -1,0 +1,14 @@
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\obj\Debug\netcoreapp2.2\ServicePluginSQL.csprojAssemblyReference.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\obj\Debug\netcoreapp2.2\ServicePluginSQL.csproj.CoreCompileInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\obj\Debug\netcoreapp2.2\ServicePluginSQL.AssemblyInfoInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\obj\Debug\netcoreapp2.2\ServicePluginSQL.AssemblyInfo.cs
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\bin\Debug\netcoreapp2.2\ServicePluginSQL.deps.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\bin\Debug\netcoreapp2.2\ServicePluginSQL.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\bin\Debug\netcoreapp2.2\ServicePluginSQL.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\bin\Debug\netcoreapp2.2\TestCommon.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\bin\Debug\netcoreapp2.2\TestCommon.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\obj\Debug\netcoreapp2.2\ServicePluginSQL.csproj.CopyComplete
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\obj\Debug\netcoreapp2.2\ServicePluginSQL.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\obj\Debug\netcoreapp2.2\ServicePluginSQL.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\bin\Debug\netcoreapp2.2\ServicePluginSQL.runtimeconfig.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePluginSQL\bin\Debug\netcoreapp2.2\ServicePluginSQL.runtimeconfig.dev.json

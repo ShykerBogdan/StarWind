@@ -1,0 +1,17 @@
+D:\StarWindTest\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.1\TestCommon.deps.json
+D:\StarWindTest\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.1\TestCommon.dll
+D:\StarWindTest\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.1\TestCommon.pdb
+D:\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.csprojAssemblyReference.cache
+D:\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.csproj.CoreCompileInputs.cache
+D:\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.AssemblyInfoInputs.cache
+D:\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.AssemblyInfo.cs
+D:\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.dll
+D:\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.pdb
+D:\StarWind-Test\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.1\TestCommon.deps.json
+D:\StarWind-Test\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.1\TestCommon.dll
+D:\StarWind-Test\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.1\TestCommon.pdb
+D:\StarWind-Test\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.csproj.CoreCompileInputs.cache
+D:\StarWind-Test\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.AssemblyInfoInputs.cache
+D:\StarWind-Test\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.AssemblyInfo.cs
+D:\StarWind-Test\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.dll
+D:\StarWind-Test\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.1\TestCommon.pdb

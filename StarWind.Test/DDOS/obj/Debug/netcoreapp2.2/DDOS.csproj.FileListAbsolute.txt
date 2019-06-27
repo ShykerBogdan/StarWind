@@ -1,0 +1,13 @@
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\bin\Debug\netcoreapp2.2\DDOS.deps.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\bin\Debug\netcoreapp2.2\DDOS.runtimeconfig.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\bin\Debug\netcoreapp2.2\DDOS.runtimeconfig.dev.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\bin\Debug\netcoreapp2.2\DDOS.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\bin\Debug\netcoreapp2.2\DDOS.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\bin\Debug\netcoreapp2.2\System.Security.Permissions.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\bin\Debug\netcoreapp2.2\System.Security.Permissions.xml
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\obj\Debug\netcoreapp2.2\DDOS.csproj.CoreCompileInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\obj\Debug\netcoreapp2.2\DDOS.AssemblyInfoInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\obj\Debug\netcoreapp2.2\DDOS.AssemblyInfo.cs
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\obj\Debug\netcoreapp2.2\DDOS.csproj.CopyComplete
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\obj\Debug\netcoreapp2.2\DDOS.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\DDOS\obj\Debug\netcoreapp2.2\DDOS.pdb

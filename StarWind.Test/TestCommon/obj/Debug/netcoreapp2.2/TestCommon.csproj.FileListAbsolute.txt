@@ -1,0 +1,8 @@
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.2\TestCommon.deps.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.2\TestCommon.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestCommon\bin\Debug\netcoreapp2.2\TestCommon.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.2\TestCommon.csproj.CoreCompileInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.2\TestCommon.AssemblyInfoInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.2\TestCommon.AssemblyInfo.cs
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.2\TestCommon.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\TestCommon\obj\Debug\netcoreapp2.2\TestCommon.pdb

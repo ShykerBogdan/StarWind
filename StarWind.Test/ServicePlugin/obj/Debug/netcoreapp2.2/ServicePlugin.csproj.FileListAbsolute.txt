@@ -1,0 +1,12 @@
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\bin\Debug\netcoreapp2.2\ServicePlugin.deps.json
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\bin\Debug\netcoreapp2.2\ServicePlugin.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\bin\Debug\netcoreapp2.2\ServicePlugin.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\bin\Debug\netcoreapp2.2\TestCommon.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\bin\Debug\netcoreapp2.2\TestCommon.pdb
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\obj\Debug\netcoreapp2.2\ServicePlugin.csprojAssemblyReference.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\obj\Debug\netcoreapp2.2\ServicePlugin.csproj.CoreCompileInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\obj\Debug\netcoreapp2.2\ServicePlugin.AssemblyInfoInputs.cache
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\obj\Debug\netcoreapp2.2\ServicePlugin.AssemblyInfo.cs
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\obj\Debug\netcoreapp2.2\ServicePlugin.csproj.CopyComplete
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\obj\Debug\netcoreapp2.2\ServicePlugin.dll
+D:\Other\Bodia\StarWindTest\StarWind.Test\ServicePlugin\obj\Debug\netcoreapp2.2\ServicePlugin.pdb
